@@ -1,0 +1,23 @@
+table {
+   border-collapse: separate;
+   border-spacing: 5px;
+   background: #962730;
+   color: #962730;
+   margin-right: 20%;
+   margin: 20px 20px;
+}
+td, th {
+   background: #DAE0DC;
+   color: #000;
+   width: 200px;
+}
+
+tr.titulos{
+	background: #DAE0DC;
+	color: #000;
+	width: 500px;
+}
+
+th.moldes{
+	width:1000px;
+}

@@ -1,0 +1,24 @@
+
+
+/* Style the tab */
+
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+    display: block;
+    background-color: #99A3A4;
+    color: black;
+    width: 150px;
+	height:50px;
+    border:  5px solid #1F6FB8;
+	border-radius: 8px;
+    outline: focus;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+    background-color: inherit;
+}
